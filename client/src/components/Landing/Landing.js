@@ -5,7 +5,7 @@ import classes from './Landing.css';
 const Landing = () => {
   console.log('[classes]', classes.Landing)
   return (
-    <div className={classes}>
+    <div style={{ textAlign: "center"}}>
       <h1>
         Postmando
       </h1>
