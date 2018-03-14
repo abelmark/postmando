@@ -1,0 +1,7 @@
+.survey__card{
+  transition: transform .3s ease-in-out;
+}
+
+.survey__card:hover{
+  transform: scale(1.1);
+}
